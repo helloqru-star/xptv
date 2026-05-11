@@ -4,7 +4,7 @@
             "name": "小雅AList",
             "type": 3,
             "api": "csp_xiaoya",
-            "ext": "https://raw.githubusercontent.com/helloqru-star/xptv/refs/heads/main/alist_xiaoya.js"
+            "ext": "https://github.com/helloqru-star/xptv/blob/main/alist_xiaoya.js"
         }
     ]
 }
